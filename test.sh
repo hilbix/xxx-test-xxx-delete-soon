@@ -36,7 +36,8 @@
 KEY=/dev/disk/by-id/usb-Generic_STORAGE_DEVICE_000000009451-0:0-part1
 LEN=512
 
-CR=""
+CR="
+"
 
 out()
 {
