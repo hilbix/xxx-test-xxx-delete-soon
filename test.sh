@@ -5,11 +5,6 @@
 '
 #LEN=512
 #
-#out()
-#{
-#echo "$*" >&2
-#}
-#
 #out "Loading USB"
 #modprobe usb_storage
 #out "Waiting for USB to come up"
