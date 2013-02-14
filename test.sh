@@ -1,8 +1,8 @@
 #!/bin/bash
 #
 # Getting started
-#	root
-#	git clone https://github.com/hilbix/LUKS
+#       root
+#       git clone https://github.com/hilbix/LUKS
 # This checks it out under /root/LUKS/
 #
 # Decide:
