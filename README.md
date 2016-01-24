@@ -1,3 +1,3 @@
 Test repo, please ignore
 
-[Testlink](../../../nq-doc/PROTOCOL1.md)
+[Testlink](../../../nq-doc/blob/master/PROTOCOL1.md)
