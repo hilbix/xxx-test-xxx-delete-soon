@@ -1,3 +1,3 @@
 Test repo, please ignore
 
-[Testlink](../js-doc/INTERFACE.md)
+[Testlink](../../../js-doc/PROTOCOL1.md)
